@@ -21,12 +21,6 @@ This is the DIMS Training Manual (version |release|).
 
 .. sectionauthor:: Dave Dittrich dittrich@u.washington.edu
 
-License
--------
-
 .. include:: <isonum.txt>
 
 Copyright |copy| 2014-2016 University of Washington. All rights reserved.
-
-.. include:: license.txt
-   :literal:
