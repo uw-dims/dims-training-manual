@@ -12,6 +12,7 @@ This is the DIMS Training Manual (version |release|).
 
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
 
    introduction
