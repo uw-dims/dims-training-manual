@@ -19,6 +19,7 @@ This is the DIMS Training Manual (version |release|).
    usingdashboard
    abouttickets
    ticketapi
+   diagnosis
    license
 
 
