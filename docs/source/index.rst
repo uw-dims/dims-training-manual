@@ -28,4 +28,4 @@ This is the DIMS Training Manual (version |release|).
 
 .. include:: <isonum.txt>
 
-Copyright |copy| 2014-2016 University of Washington. All rights reserved.
+Copyright |copy| 2014-2017 University of Washington. All rights reserved.
